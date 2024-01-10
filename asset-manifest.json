@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dev-progress-tracker-v1/static/css/main.056f4b3c.css",
+    "main.js": "/dev-progress-tracker-v1/static/js/main.841170f2.js",
+    "index.html": "/dev-progress-tracker-v1/index.html",
+    "main.056f4b3c.css.map": "/dev-progress-tracker-v1/static/css/main.056f4b3c.css.map",
+    "main.841170f2.js.map": "/dev-progress-tracker-v1/static/js/main.841170f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.056f4b3c.css",
+    "static/js/main.841170f2.js"
+  ]
+}
